@@ -7,6 +7,7 @@ I have tried following during hackathon:
 2. Finding out useful variables for model building
 3. Attempted Linear Regression
 4. Attemped Random Forest Regressor - disappointed a lot
-5. Finally tried [Brahmastra](https://en.wikipedia.org/wiki/Brahmastra) XGBOOST
-6. Tuning parameter
+5. Finally tried [Brahmastra](https://en.wikipedia.org/wiki/Brahmastra) of Hackathon, .. :P ->  XGBOOST
+6. Cross Validation and Tuning parameter for XGBoost
+
 
